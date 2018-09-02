@@ -1,0 +1,30 @@
+{
+  "name": "nodehapisocketchatreact",
+  "version": "1.0.0",
+  "description": "Demo chat in node and React using hapi 17",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParshantArora/Node-Chat-Socket-Hapi-React.git"
+  },
+  "keywords": [
+    "Hapi"
+  ],
+  "author": "Parshant Nagpal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParshantArora/Node-Chat-Socket-Hapi-React/issues"
+  },
+  "homepage": "https://github.com/ParshantArora/Node-Chat-Socket-Hapi-React#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.0",
+    "boom": "^7.2.0",
+    "hapi": "^17.5.4",
+    "joi": "^13.6.0",
+    "mongoose": "^5.2.12",
+    "socket.io": "^2.1.1"
+  }
+}
